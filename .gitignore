@@ -1,0 +1,12 @@
+# ignore binary files
+/bin/ 
+/bin/dbms 
+
+# ignore runtime database storage files 
+/data/ 
+/data/* 
+
+# ignore compile time obj files and temp files
+*.o 
+*.tmp 
+*.log
