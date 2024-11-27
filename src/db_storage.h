@@ -3,5 +3,6 @@
 
 void create_table();
 void insert_row(int index, const char* name);
+void read_row(int index, const char* name);
 
 #endif
